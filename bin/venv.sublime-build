@@ -1,0 +1,5 @@
+{
+    "cmd": ["/Users/stephenanning/OneDrive - University of Southampton/PycharmProjects/best-practices-for-coding-in-dh/venv/bin/python","-u", "$file"],
+    "selector": "source.python",
+    "file_regex": "^\\s*File \"(...*?)\", line ([0-9]*)"
+}

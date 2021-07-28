@@ -1,6 +1,8 @@
-beautifulsoup==4.9.3
+beautifulsoup4==4.9.3
 lxml==4.6.2
 jupyter==1.0.0
 spacy==2.2.4
-Https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz#egg=en_core_web_sm
-nbconvert=6.0.7
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz#egg=en_core_web_sm
+nbconvert==6.0.7
+click==8.0.1
+PySimpleGUI==4.45.0
